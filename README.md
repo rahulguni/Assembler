@@ -1,4 +1,5 @@
 #The Quack3200 Computer
+
 The Quack3200 is a decimal computer with 100,000 words of memory. Each word consists of 8 decimal digits. There is an additional 10 words of memory called registers. These are on chip memory.  The machine language instructions for the Quack3200 is of the following form:
 
  
